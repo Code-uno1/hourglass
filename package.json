@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Emmanuel Kahugu and Maggie",
   "license": "ISC",
   "dependencies": {
     "vite": "^7.3.1"
